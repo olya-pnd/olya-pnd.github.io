@@ -3,4 +3,4 @@
 # olya-pnd.github.io
 Мой первый сайт
 
-[Урок 12](olya-pnd.github.io/lesson_12/index.html "Урок 12")
+[Урок 12](https://olya-pnd.github.io/lesson_12/index.html "Урок 12")
